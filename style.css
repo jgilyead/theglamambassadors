@@ -1,0 +1,40 @@
+a, a:link, a:visited, a:hover, a:active {
+  color: #fff;
+}
+
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.highlight {
+  color: #00BCD3 !important;
+}
+
+.hr {
+  display: block;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 450px;
+  max-width: 100%;
+  margin-bottom: 75px;
+  margin-top: 100px;
+}
+
+.contact {
+  line-height: 1.6;
+}
+
+.fancy {
+  font-family: "Playfair Display";
+  font-size: 1.2em;
+}
+
+.large {
+  font-size: 1.3em;
+}
